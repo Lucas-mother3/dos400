@@ -1,83 +1,83 @@
 0085
 COMMON   0006 0038
-0001 U 0000 "Incorrect DOS version",CR,LF
-0002 U 0000 "%1 already installed",CR,LF
-0003 U 0000 "%1 bytes available on disk",CR,LF
-0004 U 0000 "%1 bytes free",CR,LF
-0005 U 0000 "%1 bytes in bad sectors",CR,LF
-0006 U 0000 "%1 bytes total disk space",CR,LF
-0007 U 0000 "%1 bytes total memory",CR,LF
-0008 U 0000 "%1 bytes used by system",CR,LF
-0009 U 0000 "%1 installed",CR,LF
-0010 U 0000 "%1 not installed",CR,LF
-0011 U 0000 "%1 not installed",CR,LF
-0012 U 0000 "Cannot %1 a network drive",CR,LF
+0001 U 0000 "Maling bersyon ng DOS",CR,LF
+0002 U 0000 "Ang %1 ay nakainstall na",CR,LF
+0003 U 0000 "%1 bytes meron sa disk",CR,LF
+0004 U 0000 "%1 bytes libreng espasyo",CR,LF
+0005 U 0000 "%1 bytes sa (mga) masirang sektor",CR,LF
+0006 U 0000 "%1 bytes lahatan na espasyo sa disk",CR,LF
+0007 U 0000 "%1 bytes lahatan na memorya",CR,LF
+0008 U 0000 "%1 bytes ginagamit ng sistema",CR,LF
+0009 U 0000 "Ang %1 ay nainstall na",CR,LF
+0010 U 0000 "Ang %1 ay hindi nakainstall",CR,LF
+0011 U 0000 "Ang %1 ay hindi mainstall",CR,LF
+0012 U 0000 "Hindi %1 ang drive sa network",CR,LF
 0013 U 0000 "",
-0014 U 0000 "Cannot %1 a SUBSTed or ASSIGNed drive",CR,LF
-0015 U 0000 "Cannot execute %1",CR,LF
-0016 U 0000 "Expanded Memory not available",CR,LF
-0017 U 0000 "File allocation table bad, drive %1",CR,LF
-0018 U 0000 "File cannot be copied onto itself",CR,LF
-0019 U 0000 "Insert target disk in drive %1",CR,LF
-0020 U 0000 "Insufficient disk space",CR,LF
-0021 U 0000 "Invalid characters in volume label",CR,LF
-0022 U 0000 "Invalid code page",CR,LF
-0023 U 0000 "Invalid date",CR,LF
-0024 U 0000 "Invalid time",CR,LF
-0025 U 0000 "Invalid path",CR,LF
-0026 U 0000 "No source drive specified",CR,LF
-0027 U 0000 "No target drive specified",CR,LF
-0028 U 0000 "Press any key to continue . . .",CR,LF
-0029 U 0000 "Source path required",CR,LF
-0030 U 0000 "System transferred",CR,LF
+0014 U 0000 "Hindi %1 ang naka-SUBSTed o naka-ASSIGNed na drive",CR,LF
+0015 U 0000 "Hindi ma-ibukas ang %1",CR,LF
+0016 U 0000 "Hindi pwede ang Expanded na Memorya",CR,LF
+0017 U 0000 "Ang tabulang naka-allokang mga dokyumento ay nasira sa drive %1",CR,LF
+0018 U 0000 "Hindi maaaring makopya ang isang dokyumento sa sarili",CR,LF
+0019 U 0000 "Ilagay ang kailanan na disk sa drive %1",CR,LF
+0020 U 0000 "Puno na ang espasyo sa disk",CR,LF
+0021 U 0000 "Maling letra sa pangalan ng lohikal na drive",CR,LF
+0022 U 0000 "Maling pahinang kodigo (encoding)",CR,LF
+0023 U 0000 "Maling araw",CR,LF
+0024 U 0000 "Maling oras",CR,LF
+0025 U 0000 "Maling lokasyon",CR,LF
+0026 U 0000 "Walang sinabi sa pinagmumulaang drive",CR,LF
+0027 U 0000 "Walang sinabi sa pagtutunguang drive",CR,LF
+0028 U 0000 "Ipindot ang kahit na anong key para magpatuloy . . .",CR,LF
+0029 U 0000 "Kailangang sabihin ang pingmulang lokasyon",CR,LF
+0030 U 0000 "Nalipat na ang sistema",CR,LF
 0031 U 0000 "",
-0032 U 0000 "Unable to create directory",CR,LF
-0033 U 0000 "Volume in drive %1 has no label",CR,LF
-0034 U 0000 "Volume in drive %1 is %2",CR,LF
-0035 U 0001 "Volume label (11 characters, ENTER for none)? "
-0036 U 0000 "Volume Serial Number is %1-%2",CR,LF
-0037 U 0000 "Incorrect file type",CR,LF
+0032 U 0000 "Hindi makagawa ng isang direktoryo",CR,LF
+0033 U 0000 "Ang lohikal na drive sa drive %1 ay walang label",CR,LF
+0034 U 0000 "Ang lohikal na drive sa drive %1 is %2",CR,LF
+0035 U 0001 "Pangalan ng lohikal na drive (11 na titik, ipindot ang ENTER kung wala)? "
+0036 U 0000 "Ang Numerong Serye ng Lohikal na Drive ay %1-%2",CR,LF
+0037 U 0000 "Maling uri ng dokyumento",CR,LF
 0038 U 0001 CR,LF
 EXTEND   0685 0090
-0001 U 0003 "Invalid function"
-0002 U 0000 "File not found"
-0003 U 0000 "Path not found"
-0004 U 0000 "Too many open files"
-0005 U 0000 "Access denied "
-0006 U 0000 "Invalid handle"
-0007 U 0000 "Memory control blocks destroyed"
-0008 U 0000 "Insufficient memory"
-0009 U 0000 "Invalid memory block address"
-0010 U 0000 "Invalid Environment"
-0011 U 0000 "Invalid format"
-0012 U 0000 "Invalid function parameter"
-0013 U 0000 "Invalid data"
+0001 U 0003 "Maling function"
+0002 U 0000 "Hindi mahanap ang dokyumento"
+0003 U 0000 "Hindi mahanap ang lokasyon"
+0004 U 0000 "Sobrang dami ang nakabukas na dokyumento"
+0005 U 0000 "Hindi maaring gamitin "
+0006 U 0000 "Maling argumento"
+0007 U 0000 "Nasira ang mga memory control block"
+0008 U 0000 "Malapit nang mapuno ang memorya"
+0009 U 0000 "Maling memory block address"
+0010 U 0000 "Maling Kapaligiran"
+0011 U 0000 "Maling uri"
+0012 U 0000 "Maling parametro ng function"
+0013 U 0000 "Hindi wastong datos"
 0014 U 0000 "",
-0015 U 0000 "Invalid drive specification"
-0016 U 0000 "Attempt to remove current directory"
-0017 U 0000 "Not same device"
-0018 U 0000 "No more files"
-0019 U 0000 "Write protect error"
-0020 U 0000 "Invalid unit"
-0021 U 0000 "Not ready"
-0022 U 0000 "Invalid device request"
-0023 U 0000 "Data error"
-0024 U 0000 "Invalid device request parameters"
-0025 U 0000 "Seek error"
-0026 U 0000 "Invalid media type"
-0027 U 0000 "Sector not found"
-0028 U 0000 "Printer out of paper error"
-0029 U 0000 "Write fault error"
-0030 U 0000 "Read fault error"
-0031 U 0000 "General failure"
-0032 U 0000 "Sharing violation"
-0033 U 0000 "Lock violation"
-0034 U 0000 "Invalid disk change"
-0035 U 0000 "FCB unavailable"
-0036 U 0000 "System resource exhausted"
-0037 U 0000 "Code page mismatch"
-0038 U 0000 "Out of input"
-0039 U 0000 "Insufficient disk space"
+0015 U 0000 "Hinding wastong espesipikasyon ng drive"
+0016 U 0000 "Tngkang i-tanggal ang kasalukuyang direktoryo"
+0017 U 0000 "Hinding parehas na aparato"
+0018 U 0000 "Wala nang dokyumento"
+0019 U 0000 "May nangyaring mali tungkol/dahil sa write protect"
+0020 U 0000 "Maling bagay"
+0021 U 0000 "Hindi pang handa"
+0022 U 0000 "Maling paghingi ng aparato"
+0023 U 0000 "May nangyaring mali sa datos"
+0024 U 0000 "Maling parametro sa paghingi ng aparato"
+0025 U 0000 "May naganap na pagkamali sa paghanap"
+0026 U 0000 "Hindi wastong uri ng media"
+0027 U 0000 "Hindi mahanap ang Sektor"
+0028 U 0000 "Naubusan ng papel ang imprentador"
+0029 U 0000 "May naganap na pagkakamali sa pagsulat"
+0030 U 0000 "May naganap na pagkakamali sa pagbasa"
+0031 U 0000 "Pangkalahatang kabiguan"
+0032 U 0000 "Paglalabag sa pagbahagi"
+0033 U 0000 "Paglalabag sa pag-kandado"
+0034 U 0000 "Hindi wstong pagpalit ng disk"
+0035 U 0000 "Hindi magamit ang FCB"
+0036 U 0000 "Naubusan na ng pagkukunan ng sistema"
+0037 U 0000 "Hindi tugmang pahinang kodigo"
+0038 U 0000 "Wala nang input"
+0039 U 0000 "Puno na ang espasyo sa disk"
 0040 U 0000 "",
 0041 U 0000 "",
 0042 U 0000 "",
@@ -172,8 +172,10 @@ COMMAND  14c8 0091
 0234 U 0000 CR,LF,"Top level process aborted, cannot continue",CR,LF
 0235 U 0000 CR,LF
 0463 U 0000 "Out of environment space",CR,LF
-0464 U 0001 CR,LF,CR,LF,"Microsoft(R) MS-DOS(R) Version 4.00",CR,LF
-	"             (C)Copyright Microsoft Corp 1981-1988",CR,LF
+0464 U 0001 CR,LF,CR,LF,"Microsoft(R) MS-DOS(R) 4.00",CR,LF
+	"             (C)Karapatang-ari Microsoft Corp 1981-2024",CR,LF
+	"             Nilapat sa Filipino ni Lucas-mother3",CR,LF,CR,LF
+	"Para sa karagdagang impormasyon: https://github.com/Lucas-mother3/dos400",CR,LF
 0465 U 0000 "Specified COMMAND search directory bad",CR,LF
 0466 U 0000 "Specified COMMAND search directory bad access denied",CR,LF
 1002 U 0000 "Duplicate file name or file not found",CR,LF
@@ -744,7 +746,7 @@ RESTORE  792b 0020
 	"Replace the file (Y/N)?",CR,LF
 0017 U 0000 CR,LF,"Restore file sequence error",CR,LF
 0018 U 0000 CR,LF,"File creation error",CR,LF
-0019 U 0000 CR,LF,"Insufficient disk space",CR,LF
+0019 U 0000 CR,LF,"Puno na ang espasyo sa disk",CR,LF
 0020 U 0000 CR,LF,"*** Not able to restore file ***",CR,LF
 0021 U 0000 CR,LF,"*** Restoring files from drive %1: ***",CR,LF
 0022 U 0000 CR,LF,"WARNING! File %1",CR,LF
@@ -791,7 +793,7 @@ TREE     854e 0004
 0002 U 0000 "Directory PATH listing for Volume %1",CR,LF
 0003 U 0000 "Directory PATH listing",CR,LF
 0004 U 0000 "No sub-directories exist",CR,LF,LF
-0007 U 0000 "ÀÄÃ³"
+0007 U 0000 "Ã€Ã„ÃƒÂ³"
 REPLACE  860d 0009
 0003 U 0000 CR,LF,"No files replaced",CR,LF
 0004 U 0000 CR,LF,"No files added",CR,LF
@@ -920,9 +922,9 @@ REDIRSYS 9d28 0000
 MEM      9d3c 0042
 0010 U 0000  CR,LF
 0011 U 0000  "  Address     Name          Size       Type ",CR,LF
-0012 U 0000  "  ÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄ     ÄÄÄÄÄÄ",CR,LF
+0012 U 0000  "  Ã„Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„",CR,LF
 0013 U 0000  "  Handle      EMS Name      Size   ",CR,LF
-0014 U 0000  "  ÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄ  ",CR,LF
+0014 U 0000  "  Ã„Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„  ",CR,LF
 0015 U 0000  "  %1      %2     %3     %4",CR,LF
 0016 U 0000  "                %1   %2      %3 ",CR,LF
 0017 U 0000  "                  %1              %2 ",CR,LF
