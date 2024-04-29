@@ -1,17 +1,9 @@
-# MS-DOS 4.00 
-This is MS-DOS 4.00 taken from the Microsoft repo:
-https://github.com/microsoft/MS-DOS
+# MS-DOS 4.00: Filipino Edition
+Maligayang pagdating! Ito ay isang hinding opisyal na paglapat ng Microsoft MS-DOS 4.00 sa wikang Filipino! 
 
-This is based off the modifications made by neozeed (of Virtually Fun) and other fellas. This is mainly a fork to experiment with the source code, maybe even translating it into Filipino (for the fun of it).
+Base ito sa fork ni neozeed para ma-isagawa ito sa loob ng isang sistemang DOS.
 
-This is based off huge hard work from Microsoft and IBM.
-
-(Screenshot provided by neozeed)
-![compiledos4-qemu_400](https://github.com/neozeed/dos400/assets/9031439/022e8d94-3a30-4c64-9b3b-0cdf0a0245bf)
-
-> Yes, it does compile.  Yes it can DOES boot from Hard Disk.  Yes the CALL 5 debug thing has been patched.
-Enjoy!
-
+Ito'y pra lamang sa pag-experiment at katuwaan, na nag-aayon sa lisensya ng MIT.
 
 ## MIT License
 
