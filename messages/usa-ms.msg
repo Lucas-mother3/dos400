@@ -33,7 +33,7 @@ COMMON   0006 0038
 0031 U 0000 "",
 0032 U 0000 "Hindi makagawa ng isang direktoryo",CR,LF
 0033 U 0000 "Ang lohikal na drive sa drive %1 ay walang label",CR,LF
-0034 U 0000 "Ang lohikal na drive sa drive %1 is %2",CR,LF
+0034 U 0000 "Ang lohikal na drive sa drive %1 ay %2",CR,LF
 0035 U 0001 "Pangalan ng lohikal na drive (11 na titik, ipindot ang ENTER kung wala)? "
 0036 U 0000 "Ang Numerong Serye ng Lohikal na Drive ay %1-%2",CR,LF
 0037 U 0000 "Maling uri ng dokyumento",CR,LF
